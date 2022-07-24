@@ -1,1 +1,14 @@
 GET http://localhost:1234/api
+
+###
+
+POST http://localhost:1234/api
+Content-Type: application/json
+ 
+
+{
+    "name": "Kyle"
+}
+
+###
+
